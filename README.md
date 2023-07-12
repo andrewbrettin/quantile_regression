@@ -1,5 +1,7 @@
 # Quantile regression
 
+Authors: @FabriFalasca (fabri.falasca@nyu.edu) @andrewbrettin (brettin@cims.nyu.edu)
+
 Check out our paper in Environmental Data Science [Exploring the nonstationarity of coastal sea level probability distributions](https://doi.org/10.1017/eds.2023.10)
 
 
