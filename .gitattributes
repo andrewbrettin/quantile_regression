@@ -1,0 +1,2 @@
+data/tide_gauge_table.csv filter=lfs diff=lfs merge=lfs -text
+daily_tide_gauges_dict.npy filter=lfs diff=lfs merge=lfs -text
